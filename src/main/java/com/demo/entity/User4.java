@@ -1,12 +1,11 @@
 package com.demo.entity;
 
-public class User {
+public class User4 {
 
     private Long id;
     private String name;
     private Integer age;
     private String email;
-    private String gender;
 
     public Long getId() {
         return id;
